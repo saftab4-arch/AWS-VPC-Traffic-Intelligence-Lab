@@ -145,6 +145,4 @@ All resources were deleted after completion to avoid ongoing costs:
 
 ---
 
-## 📸 Screenshots
 
-(Add your screenshots here)
