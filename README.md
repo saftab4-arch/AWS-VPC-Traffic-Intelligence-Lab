@@ -26,6 +26,9 @@ Amazon Athena (SQL queries)
 Traffic Analysis & Security Insights
 ```
 
+## 🏗️ Architecture Diagram
+
+![AWS VPC Traffic Intelligence Architecture](diagram/aws-vpc-traffic-intelligence-architecture.png.png)
 ---
 
 ## ⚙️ Services Used
